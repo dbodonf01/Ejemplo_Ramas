@@ -13,7 +13,7 @@ public class ejemplo2
 	}
 
 	public static void printOne() {
-		System.out.println("Hello my name is Ruben");
+		System.out.println("Hello my name is Ruben Marin Silva");
 	}
 
 	public static void printTwo() {
