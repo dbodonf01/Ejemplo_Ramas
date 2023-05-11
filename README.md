@@ -1,4 +1,1 @@
-
-adios
-df djfsd f assda
-sdfs dfsdaf sadf 
+Readme del main
