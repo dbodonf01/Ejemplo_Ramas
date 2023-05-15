@@ -1,4 +1,1 @@
-
- 
-Es el readme de la rama del main
-
+Esta es la solucion del main hecha a mano
