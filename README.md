@@ -1,2 +1,1 @@
-
-Readme del Team2 del lunes 15/5
+Esta es la solucion del main hecha a mano
