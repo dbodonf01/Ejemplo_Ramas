@@ -49,5 +49,12 @@ public class fichero_Team1 {
         }
         return all;
     }
+    public static void falseSwap(int x, int y)
+	{	System.out.println("in method falseSwap. x: " + x + " y: " + y);
+		int temp = x;
+		x = y;
+		y = temp;
+		System.out.println("in method falseSwap. x: " + x + " y: " + y);
+	}
 }
 
