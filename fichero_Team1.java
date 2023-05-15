@@ -27,8 +27,8 @@ public class fichero_Team1 {
         result = base10Num + result;
         assert all0sAnd1s(result);
         
-        /**if( isNeg )
-            result = "-" + result;**/
+        if( isNeg )
+            result = "-" + result;
         return result;
     }
     
