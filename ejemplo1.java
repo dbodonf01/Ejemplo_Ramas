@@ -10,8 +10,7 @@ public class ejemplo1{
             
             
             
-            System.out.println ("Hola me llamo: ");
-            System.out.println ("JUan CArlos");
+           
 
             System.out.println("Hola me llamo :");
             System.out.println("David");
