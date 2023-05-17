@@ -1,5 +1,1 @@
-
- 
-Es el readme de David
-
-Este es el readme de jAVIER
+//Este es el readme de Juan CArlos
