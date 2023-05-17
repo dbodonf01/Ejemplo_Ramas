@@ -5,6 +5,9 @@ public class ejemplo1{
         for(int i = 0; i <= 12; i++)
         {
  juanCarlos
+      System.out.println ("Hola me llamo: ");
+            System.out.println ("JUan CArlos");
+     
             System.out.print("12 * "+ i + " = " + 12 * i + "\n");
             //Juan Carlos Sanchez
 
